@@ -1,6 +1,6 @@
 # NFS Heat VR — OpenXR
 
-**0.4.0 Beta 1 · Engine build 139 · Windows x64 / PC VR**
+**0.4.0 Beta 4 · Engine build 139 · Windows x64 / PC VR**
 
 A free native stereo VR mod for Need for Speed Heat. Both eyes are rendered by the game engine, head movement controls the view, and headset resolution is separate from the desktop window. Menus use a flat screen in front of you; driving uses VR.
 
